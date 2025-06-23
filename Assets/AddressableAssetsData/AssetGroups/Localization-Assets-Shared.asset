@@ -15,10 +15,11 @@ MonoBehaviour:
   m_GroupName: Localization-Assets-Shared
   m_GUID: ebca7a2b467c14cc18bed67824e51565
   m_SerializeEntries:
-  - m_GUID: 0e5f8d21122b64a7a8459a1c61b9b9d8
-    m_Address: NotoSansMonoCJKtc-Regular SDF
+  - m_GUID: 20842193146b84a2fb8c3eecb40a7538
+    m_Address: fusion-pixel SDF
     m_ReadOnly: 1
     m_SerializedLabels:
+    - Locale-en
     - Locale-zh
     - Locale-zh-Hant
     FlaggedDuringContentUpdateRestriction: 0

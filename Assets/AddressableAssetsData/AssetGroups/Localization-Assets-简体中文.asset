@@ -13,8 +13,6 @@ MonoBehaviour:
   m_Name: "Localization-Assets-\u7B80\u4F53\u4E2D\u6587"
   m_EditorClassIdentifier: 
   m_GroupName: "Localization-Assets-\u7B80\u4F53\u4E2D\u6587"
-  m_Data:
-    m_SerializedData: []
   m_GUID: 705868e2af7f440019d7dffa2e14fa1d
   m_SerializeEntries: []
   m_ReadOnly: 1
